@@ -32,7 +32,7 @@ flowchart LR
     L5 --> L5a[Análise e avaliação de impacto]
     L5 --> L5b[Otimização de processos e sistemas]
 
-    L6 --> L6a[Linha aberta - sem dissertação ainda]
+    L6 --> L6a[Ciência de dados]
 
     L7 --> L7a[Gestão organizacional, indicadores,<br/>BI, gestão do conhecimento]
 ```
