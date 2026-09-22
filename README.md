@@ -28,6 +28,6 @@ Cada documento apresenta as linhas de pesquisa disponíveis, um fluxograma com a
 1. Consulte o documento do seu nível (TCC ou mestrado) e veja o fluxograma para ter uma visão geral das linhas.
 2. Leia os trabalhos já orientados na linha de seu interesse para entender o tipo de problema e a abordagem já utilizados.
 3. Proponha um tema que seja relacionado com a linha escolhida, evitando repetir exatamente um trabalho já realizado.
-4. Marque um horário na minha agenda para discutir e refinar a sua proposta e elaborar o seu projeto.
+4. Marque um horário na [minha agenda](https://calendar.app.google/ZqkyjcirS7xmpQpe9) para discutir e refinar a sua proposta e elaborar o seu projeto.
 
 > Os documentos foram gerados a partir do meu Currículo Lattes e serão atualizados periodicamente conforme novas orientações forem concluídas.
