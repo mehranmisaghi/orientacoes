@@ -1,4 +1,4 @@
-# Orientações — TCC e Mestrado
+# Orientações — TCC (BSI) e Mestrado (PPGTA) 
 
 **Prof. Mehran Misaghi**
 
@@ -21,13 +21,13 @@ Cada documento apresenta as linhas de pesquisa disponíveis, um fluxograma com a
 3. Redes Sociais Corporativas
 4. Educação a Distância
 5. Gestão de Segurança da Informação
-6. Tecnologias Ambientais 
+6. _Smart Cities_ (PPGTA - Tecnologias Ambientais) 
 
 ## Como usar este material
 
 1. Consulte o documento do seu nível (TCC ou mestrado) e veja o fluxograma para ter uma visão geral das linhas.
 2. Leia os trabalhos já orientados na linha de seu interesse para entender o tipo de problema e a abordagem já utilizados.
-3. Proponha um tema que dialogue com a linha escolhida, evitando repetir exatamente um trabalho já realizado.
-4. Procure o orientador para discutir e refinar a proposta.
+3. Proponha um tema que seja relacionado com a linha escolhida, evitando repetir exatamente um trabalho já realizado.
+4. Marque um horário na minha agenda para discutir e refinar a sua proposta e elaborar o seu projeto.
 
-> Os documentos foram gerados a partir do Currículo Lattes do orientador e são atualizados periodicamente conforme novas orientações forem concluídas.
+> Os documentos foram gerados a partir do meu Currículo Lattes e serão atualizados periodicamente conforme novas orientações forem concluídas.
