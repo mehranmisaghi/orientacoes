@@ -8,7 +8,7 @@ Este documento apresenta as linhas de pesquisa disponíveis para orientação de
 ## Fluxograma das linhas de pesquisa (TCC)
 
 ```mermaid
-flowchart TD
+flowchart LR
     A[Prof. Mehran Misaghi<br/>Orientação de TCC] --> L1[1. Sistemas Criptográficos<br/>Baseados na Identidade]
     A --> L2[2. Pensamento Enxuto<br/>Aplicado à TI]
     A --> L3[3. Redes Sociais<br/>Corporativas]
