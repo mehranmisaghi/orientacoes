@@ -2,17 +2,17 @@
 
 **Prof. Mehran Misaghi**
 
-Este repositório reúne informações para estudantes que desejam fazer um **Trabalho de Conclusão de Curso (TCC)** na graduação ou uma **dissertação de mestrado** sob orientação do Prof. Mehran Misaghi, seguindo uma das linhas de pesquisa já estabelecidas.
+Este repositório tem por objtivo reunir informações para estudantes que desejam fazer seu **Trabalho de Conclusão de Curso (TCC)** ou sua **dissertação de mestrado** sob minha orientação, seguindo uma das linhas de pesquisa já estabelecidas.
 
 Cada documento apresenta as linhas de pesquisa disponíveis, um fluxograma com a organização temática de cada linha, e a lista de trabalhos já orientados em cada uma — para que o estudante possa se situar quanto ao tipo de problema, escopo e abordagem já explorados antes de propor o seu próprio tema.
 
 ## Conteúdo
 
 - **[Linhas de Pesquisa — Graduação (TCC)](linhas-de-pesquisa-graduacao-tcc.md)**
-  Linhas de pesquisa para TCC, fluxograma temático e lista de TCCs já orientados, agrupados por linha.
+  Linhas de pesquisa para e TCCs já orientados, agrupados por linha.
 
 - **[Linhas de Pesquisa — Mestrado](linhas-de-pesquisa-mestrado.md)**
-  Linhas de pesquisa para dissertação de mestrado, fluxograma temático e lista de dissertações já orientadas, agrupadas por linha.
+  Linhas de pesquisa para dissertação de mestrado (PPGTA)e lista de dissertações já orientadas (Mestrado Profissional em Engenharia de Produção), agrupadas por linha.
 
 ## Linhas de pesquisa
 
@@ -21,6 +21,7 @@ Cada documento apresenta as linhas de pesquisa disponíveis, um fluxograma com a
 3. Redes Sociais Corporativas
 4. Educação a Distância
 5. Gestão de Segurança da Informação
+6. Tecnologias Ambientais 
 
 ## Como usar este material
 
