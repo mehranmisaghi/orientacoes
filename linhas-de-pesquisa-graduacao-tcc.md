@@ -12,9 +12,10 @@ flowchart LR
     A[Prof. Mehran Misaghi<br/>Orientação de TCC] --> L1[1. Sistemas Criptográficos<br/>Baseados na Identidade]
     A --> L2[2. Pensamento Enxuto<br/>Aplicado à TI]
     A --> L3[3. Redes Sociais<br/>Corporativas]
-    A --> L4[4. Educação a Distância]
-    A --> L5[5. Gestão de Segurança<br/>da Informação]
-    A --> L6[Outros temas de TI aplicada]
+    A --> L4[4. Gestão de Segurança<br/>da Informação]
+    A --> L5[5. Avaliação de Desempenho]
+    A --> L6[6. Protocolos]
+    A --> L7[Outros temas de TI aplicada]
 
     L1 --> L1a[Criptografia e assinaturas digitais]
     L1 --> L1b[Blockchain e votação online]
@@ -24,13 +25,17 @@ flowchart LR
 
     L3 --> L3a[Ferramentas colaborativas]
 
-    L4 --> L4a[Linha aberta - sem TCC ainda]
+    L4 --> L4a[ISO 27001/27002/27005/22301]
+    L4 --> L4b[LGPD e continuidade de negócios]
+    L4 --> L4c[Auditoria, riscos e forense]
 
-    L5 --> L5a[ISO 27001/27002/27005/22301]
-    L5 --> L5b[LGPD e continuidade de negócios]
-    L5 --> L5c[Auditoria, riscos e forense]
+    L5 --> L5a[Comparativos de linguagens,<br/>bancos de dados e ferramentas]
+    L5 --> L5b[Benchmarking e customizações]
 
-    L6 --> L6a[Cloud, desempenho, IA aplicada,<br/>bancos de dados, IoT/RFID]
+    L6 --> L6a[LDAP e diretórios]
+    L6 --> L6b[Outros protocolos - DCCP]
+
+    L7 --> L7a[IA aplicada, IoT/RFID,<br/>CRM, tecnologia assistiva]
 ```
 
 ---
@@ -82,17 +87,7 @@ flowchart LR
 
 ---
 
-## 4. Educação a Distância
-
-**Objetivo:** estudar fatores relacionados ao ensino a distância (EAD), incluindo satisfação, avaliação e ferramentas de apoio.
-
-**Palavras-chave:** EAD, educação a distância, avaliação educacional.
-
-*Nenhum TCC de graduação orientado nesta linha foi identificado no currículo (os trabalhos sobre EAD estão no mestrado — ver o documento de mestrado).*
-
----
-
-## 5. Gestão de Segurança da Informação
+## 4. Gestão de Segurança da Informação
 
 **Objetivo:** propor mecanismos que auxiliem na gestão de segurança da informação com base em normas da família ISO/IEC 27000, incluindo continuidade de negócios, LGPD, auditoria e riscos.
 
@@ -139,36 +134,56 @@ flowchart LR
 
 ---
 
-## Outros temas de TI orientados (fora das 5 linhas principais)
+## 5. Avaliação de Desempenho
+
+**Objetivo:** comparar, avaliar e otimizar o desempenho de linguagens, bancos de dados, ferramentas e sistemas, incluindo estudos de benchmarking e customizações de sistemas.
+
+**Palavras-chave:** avaliação de desempenho, estudo comparativo, benchmarking, otimização, customização de sistemas.
+
+**Trabalhos já orientados nesta linha:**
+- Marcus Vinícius da Costa Graciano — *Estudo Comparativo de Linguagens de Programação Cython e Python em Termos de Desempenho* (2025)
+- Julia Colognese — *Comparativo de Desempenho entre os Bancos de Dados Relacionais SQL Server e MySQL em Transações OLTP* (2025)
+- Poliane Ketterine Valdrich — *Avaliação de Desempenho de Sistema Web: Um Estudo de Caso por Meio de Testes Automatizados* (2013)
+- Andressa Aparecida de Souza — *Análise Comparativa de Ferramentas de Armazenamento Online que Utilizam Computação em Nuvem* (2013)
+- Maíra Tontini — *Avaliação do Comportamento dos Sistemas de Quóruns Temporizados para MANETs Comparado com Sistemas de Quóruns Probabilísticos* (2011)
+- Agnes Pizzi — *Customizações e Migrações dos Sistemas Integrados de Gestão Empresarial* (2008)
+- José Ricardo Maçaneiro — *Utilização de Ferramentas Administrativas para a Otimização de Consultas SQL em Banco de Dados Oracle* (2008)
+- Mozer Calabaide — *Análise de Desempenho em Banco de Dados Multidimensionais* (2008)
+- Eder Santos — *Benchmarking como Ferramenta de Incremento à Produtividade: Caso Logística Indústria Têxtil* (2006)
+- Cláudio Mueller — *Avaliação de Desempenho de Servidores Web através dos Parâmetros Latência, Vazão e Utilização* (2005)
+
+---
+
+## 6. Protocolos
+
+**Objetivo:** estudar, implementar e avaliar protocolos de rede e de diretórios, como LDAP e DCCP.
+
+**Palavras-chave:** protocolos de rede, LDAP, diretórios, DCCP.
+
+**Trabalhos já orientados nesta linha:**
+- Thiago Trufelli — *Análise Comparativa entre os Back Ends do OpenLDAP* (2011)
+- Eduardo Coral — *Teorização e Implementação do Protocolo DCCP* (2005)
+- Edson Machado de Sousa — *Implementação de um Serviço de Diretórios Utilizando o Protocolo LDAP* (2004)
+
+---
+
+## Outros temas de TI orientados (fora das linhas principais)
 
 Trabalhos de TI aplicada que não se enquadram diretamente nas linhas acima, mas que podem interessar a quem busca temas correlatos:
 
 - Julia Duarte Solano — *IA Aplicada à Gestão Ágil: Solução Estratégica para o Product Owner com Ferramentas Existentes e Hiperautomação* (2026)
-- Marcus Vinícius da Costa Graciano — *Estudo Comparativo de Linguagens de Programação Cython e Python em Termos de Desempenho* (2025)
-- Julia Colognese — *Comparativo de Desempenho entre os Bancos de Dados Relacionais SQL Server e MySQL em Transações OLTP* (2025)
 - Beatriz de Almeida Uber — *Ponto de Equilíbrio na Utilização da Tecnologia* (2020)
 - Rodrigo Magenis, Thiago Lino Adami — *Desenvolvimento de um Protótipo de Geração de Energia Fotovoltaica Baseado em Tecnologia da Informação* (2020)
 - Alice Neves Scholze — *Um Protótipo de Tecnologia Assistiva Aplicado no Auxílio a Pessoas com Deficiência Visual na Travessia de Semáforos* (2019)
 - Anderson da Silva Viertel, Danielle Ikeda — *Papel do CRM na Identificação de Oportunidades de uma Empresa Multinacional do Setor Metalúrgico* (2018)
 - Carlos R. da Silva Godoi, Jean C. Rosa, Ricardo dos Santos — *Satisfação dos Funcionários da CDL de Joinville com Relação aos Procedimentos de Compras e Estoque* (2017)
 - Michelle Mota — *Migração de Serviços para Computação nas Nuvens: Um Estudo de Caso* (2013)
-- Poliane Ketterine Valdrich — *Avaliação de Desempenho de Sistema Web: Um Estudo de Caso por Meio de Testes Automatizados* (2013)
-- Andressa Aparecida de Souza — *Análise Comparativa de Ferramentas de Armazenamento Online que Utilizam Computação em Nuvem* (2013)
-- Thiago Trufelli — *Análise Comparativa entre os Back Ends do OpenLDAP* (2011)
-- Maíra Tontini — *Avaliação do Comportamento dos Sistemas de Quóruns Temporizados para MANETs Comparado com Sistemas de Quóruns Probabilísticos* (2011)
 - Lauan Roberto Coelho — *Implementação da Computação em Nuvens Utilizando Ferramenta Microsoft: O Caso SOCIESC* (2011)
-- Agnes Pizzi — *Customizações e Migrações dos Sistemas Integrados de Gestão Empresarial* (2008)
 - Fabrício de Jesus — *Gestão de Dados em Processo de Arquivamentos de Imagens Radiológicas* (2008)
-- José Ricardo Maçaneiro — *Utilização de Ferramentas Administrativas para a Otimização de Consultas SQL em Banco de Dados Oracle* (2008)
-- Mozer Calabaide — *Análise de Desempenho em Banco de Dados Multidimensionais* (2008)
 - Luana Soares — *Impacto da Implantação da Nota Fiscal Eletrônica em uma Organização* (2007)
 - Elias Godinho — *Aplicação do RFID na Cadeia de Suprimentos e Sistemas Produtivos* (2007)
-- Eder Santos — *Benchmarking como Ferramenta de Incremento à Produtividade: Caso Logística Indústria Têxtil* (2006)
 - Fabio Siedschlag — *Desenvolvimento de Fornecedores para Projetos Específicos dentro da Indústria de Construção e Saneamento* (2006)
 - Alan G. S. Tostini — *Soluções RAID para Prevenção de Falhas Ocorridas em Discos Rígidos de Computador* (2005)
-- Cláudio Mueller — *Avaliação de Desempenho de Servidores Web através dos Parâmetros Latência, Vazão e Utilização* (2005)
-- Eduardo Coral — *Teorização e Implementação do Protocolo DCCP* (2005)
-- Edson Machado de Sousa — *Implementação de um Serviço de Diretórios Utilizando o Protocolo LDAP* (2004)
 
 ---
 
