@@ -9,7 +9,7 @@ Este documento apresenta as linhas de pesquisa disponíveis para orientação de
 
 ```mermaid
 flowchart LR
-    A[Prof. Mehran Misaghi<br/>Orientação de TCC] --> L1[1. Sistemas Criptográficos<br/>Baseados na Identidade]
+    A[Orientação de TCC] --> L1[1. Sistemas Criptográficos<br/>Baseados na Identidade]
     A --> L2[2. Pensamento Enxuto<br/>Aplicado à TI]
     A --> L3[3. Redes Sociais<br/>Corporativas]
     A --> L4[4. Gestão de Segurança<br/>da Informação]
