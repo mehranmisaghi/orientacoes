@@ -32,7 +32,9 @@ flowchart LR
     L5 --> L5a[Análise e avaliação de impacto]
     L5 --> L5b[Otimização de processos e sistemas]
 
-    L6 --> L6a[Ciência de dados]
+    L6 --> L6a[Ciência de Dados] --> L6a1[Modelos de previsão de consumo/comportamento]
+    L6 --> L6b[Smart Farm] --> L6b1[Sensoriamento e monitoramento com IA ]
+    L6 --> L6c[Desastres Naturais] --> L6c1[Gestão/Monitoramento com IA]
 
     L7 --> L7a[Gestão organizacional, indicadores,<br/>BI, gestão do conhecimento]
 ```
