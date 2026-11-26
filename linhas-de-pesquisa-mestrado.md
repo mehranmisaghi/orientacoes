@@ -119,7 +119,7 @@ flowchart LR
 
 **Objetivo:** estudar tecnologias, modelos de gestão e indicadores aplicados ao desenvolvimento de cidades inteligentes (smart cities).
 
-**Palavras-chave:** cidades inteligentes, smart cities, gestão urbana, tecnologia aplicada ao espaço urbano, comunicação, modelos preditivos, sensoriamento e monitoramento de baixo custo
+**Palavras-chave:** cidades inteligentes, smart cities, gestão urbana, tecnologia aplicada ao espaço urbano, comunicação, modelos preditivos, sensoriamento e monitoramento de baixo custo. Cibersegurança para Agronegócio
 
 - Marco Antônio dos Santos -*Sistema de Apoio à Decisão para Gestão do Consumo de Água no Município de Joinville Utilizando Ciência de Dados*(Iniciado em 2026)
 
